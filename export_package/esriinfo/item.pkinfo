@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://www.arcgisonline.com/home/pkinfostylesheet.xsl"?>
+<pkinfo Culture='de-CH'>
+<ID>FED29E2F-88F9-42AB-BB8E-4D2B5E807E38</ID>
+<name>gemeinden</name>
+<version>11.2</version>
+<size>-1</size>
+<created></created>
+<type>Vector Tile Package</type>
+<servable>false</servable>
+<packagelocation></packagelocation>
+<pkinfolocation></pkinfolocation>
+<documenttypes>
+<documenttype>Lyr</documenttype>
+</documenttypes>
+</pkinfo>

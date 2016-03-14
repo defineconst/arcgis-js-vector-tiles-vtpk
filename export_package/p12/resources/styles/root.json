@@ -1,0 +1,1 @@
+{"version":8,"sprite":"../sprites/sprite","glyphs":"../fonts/{fontstack}/{range}.pbf","sources":{"esri":{"type":"vector","url":"../../"}},"layers":[{"id":"TLM_HOHEITSGEBIET/0","type":"line","source":"esri","source-layer":"TLM_HOHEITSGEBIET","layout":{"line-cap":"round","line-join":"round"},"paint":{"line-color":"#CCCCCC","line-width":0.5}}]}
